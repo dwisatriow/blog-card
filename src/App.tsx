@@ -1,6 +1,8 @@
 function App() {
   return (
-    <h3>Hello (blog card in progess)</h3>
+    <div className="mt-[400px] flex flex-col items-center justify-center">
+      <h1 my-auto>Hello (blog card in progress)</h1>
+    </div>
   )
 }
 
